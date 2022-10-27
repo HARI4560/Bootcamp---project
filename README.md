@@ -1,2 +1,2 @@
 # Bootcamp---project
-Its only a bootcamp project.
+It's a bootcamp project.
